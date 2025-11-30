@@ -20,3 +20,5 @@ torch==2.9.1
 python-multipart==0.0.20
 langchain-qdrant==1.1.0
 structlog==25.4.0
+
+-e .
